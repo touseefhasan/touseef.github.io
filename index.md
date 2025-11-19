@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
@@ -8,4 +8,7 @@
     <h1>Hello, World!</h1>
     <p>I'm just a normie!</p>
   </body>
-</html>
+</html> -->
+
+# Welcome to my Portfolio
+This text will be automatically styled by the theme you chose.
